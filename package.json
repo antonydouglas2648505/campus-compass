@@ -1,0 +1,25 @@
+{
+  "name": "campus-compass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/leaflet": "^1.9.22",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.3.4"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "lucide": "^1.57.0"
+  }
+}

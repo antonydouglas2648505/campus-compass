@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*
+
+# Allow example environment configuration
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
